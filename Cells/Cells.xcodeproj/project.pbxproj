@@ -16,6 +16,7 @@
 		001AD7F7184C2C3D001DDE8A /* BIDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 001AD7F6184C2C3D001DDE8A /* BIDViewController.m */; };
 		001AD7FA184C2C3D001DDE8A /* BIDViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 001AD7F8184C2C3D001DDE8A /* BIDViewController.xib */; };
 		001AD802184C2D05001DDE8A /* BIDNameAndColorCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 001AD801184C2D05001DDE8A /* BIDNameAndColorCell.m */; };
+		001AD804184C35F3001DDE8A /* BIDNameAndColorCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 001AD803184C35F3001DDE8A /* BIDNameAndColorCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		001AD7F9184C2C3D001DDE8A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/BIDViewController.xib; sourceTree = "<group>"; };
 		001AD800184C2D05001DDE8A /* BIDNameAndColorCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDNameAndColorCell.h; sourceTree = "<group>"; };
 		001AD801184C2D05001DDE8A /* BIDNameAndColorCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDNameAndColorCell.m; sourceTree = "<group>"; };
+		001AD803184C35F3001DDE8A /* BIDNameAndColorCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BIDNameAndColorCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				001AD7EA184C2C3C001DDE8A /* Supporting Files */,
 				001AD800184C2D05001DDE8A /* BIDNameAndColorCell.h */,
 				001AD801184C2D05001DDE8A /* BIDNameAndColorCell.m */,
+				001AD803184C35F3001DDE8A /* BIDNameAndColorCell.xib */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			files = (
 				001AD7EE184C2C3C001DDE8A /* InfoPlist.strings in Resources */,
 				001AD7FA184C2C3D001DDE8A /* BIDViewController.xib in Resources */,
+				001AD804184C35F3001DDE8A /* BIDNameAndColorCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
