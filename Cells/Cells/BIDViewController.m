@@ -10,7 +10,7 @@
 #import "BIDNameAndColorCell.h"
 
 @implementation BIDViewController
-@synthesize computer;
+@synthesize computers;
 
 - (void)didReceiveMemoryWarning
 {
